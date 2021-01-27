@@ -406,7 +406,7 @@ main.content.push {
 .hero .cta h1 {
   color: #FFF;
   font-size: 60px;
-  line-height: 0.7;
+  line-height: 0.9;
 }
 .hero .cta h1 .dot:after {
   content: "";
